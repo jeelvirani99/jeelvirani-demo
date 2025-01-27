@@ -1,4 +1,7 @@
 # jeelvirani-demo
 This is my first git repository
 <br>
-Author - jeel virani
+Author - jeel virani ("bsc.IT Student")
+ 
+
+
